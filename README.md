@@ -1,4 +1,4 @@
 # Primeros ejercicios de C#
-- Extensive Methods
+- Extension Methods
 - Boxing y Unboxing
 - Using Vs Dispose
