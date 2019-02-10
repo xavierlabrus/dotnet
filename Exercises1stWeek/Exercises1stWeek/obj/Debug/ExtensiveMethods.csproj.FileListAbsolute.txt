@@ -1,0 +1,7 @@
+C:\Users\Xavier\Projects\Exercises1stWeek\Exercises1stWeek\bin\Debug\Exercises1stWeek.exe.config
+C:\Users\Xavier\Projects\Exercises1stWeek\Exercises1stWeek\bin\Debug\Exercises1stWeek.exe
+C:\Users\Xavier\Projects\Exercises1stWeek\Exercises1stWeek\bin\Debug\Exercises1stWeek.pdb
+C:\Users\Xavier\Projects\Exercises1stWeek\Exercises1stWeek\obj\Debug\ExtensiveMethods.csprojAssemblyReference.cache
+C:\Users\Xavier\Projects\Exercises1stWeek\Exercises1stWeek\obj\Debug\ExtensiveMethods.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\Projects\Exercises1stWeek\Exercises1stWeek\obj\Debug\Exercises1stWeek.exe
+C:\Users\Xavier\Projects\Exercises1stWeek\Exercises1stWeek\obj\Debug\Exercises1stWeek.pdb
