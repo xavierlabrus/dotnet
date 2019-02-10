@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "Extensi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExtMethods", "ExtMethods", "{EE98CDA8-E96A-499F-AF22-C158162A84C7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BoxingAndUnboxing", "BoxingAndUnboxing", "{068A263D-EB34-4EF6-9755-255E13FD9666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnboxing", "BoxingAndUnboxing\BoxingAndUnboxing.csproj", "{E6C37DF0-2E26-4A36-AA26-BDEE6B52DFE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{28C0476A-E791-4F98-8F8E-07EBA1D443EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28C0476A-E791-4F98-8F8E-07EBA1D443EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28C0476A-E791-4F98-8F8E-07EBA1D443EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C37DF0-2E26-4A36-AA26-BDEE6B52DFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C37DF0-2E26-4A36-AA26-BDEE6B52DFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C37DF0-2E26-4A36-AA26-BDEE6B52DFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C37DF0-2E26-4A36-AA26-BDEE6B52DFE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{28C0476A-E791-4F98-8F8E-07EBA1D443EA} = {EE98CDA8-E96A-499F-AF22-C158162A84C7}
+		{E6C37DF0-2E26-4A36-AA26-BDEE6B52DFE2} = {068A263D-EB34-4EF6-9755-255E13FD9666}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F5D340C2-1F7C-4F18-A13E-A4A1111EE0DB}
